@@ -1,1 +1,1 @@
-## This is the langchain tutorial series. I am using OpenAI for this chatbot
+## This is the part of langchain tutorial series. I am using OpenAI for this chatbot. 
