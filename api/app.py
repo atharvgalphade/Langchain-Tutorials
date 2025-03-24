@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 from langserve import add_routes
 import uvicorn
