@@ -15,3 +15,5 @@ lancedb
 arxiv
 wikipedia
 langchainhub
+groq
+langchain-groq
